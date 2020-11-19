@@ -1,0 +1,2 @@
+From gcr.io/flink-operator/deployer:webhook-cert
+MAINTAINER yaoyuanmeng <1390331234@qq.com>
