@@ -1,0 +1,5 @@
+FROM  bitnami/git:latest
+MAINTAINER yaoyuanmeng <1390331234@qq.com>
+
+
+
