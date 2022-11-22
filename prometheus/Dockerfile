@@ -1,4 +1,4 @@
-FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.6.0
+FROM squidfunk/mkdocs-material
 MAINTAINER yaoyuanmeng <1390331234@qq.com>
 
 
