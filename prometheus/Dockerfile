@@ -1,0 +1,5 @@
+FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.6.0
+MAINTAINER yaoyuanmeng <1390331234@qq.com>
+
+
+
