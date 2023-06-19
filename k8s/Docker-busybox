@@ -1,0 +1,2 @@
+FROM docker.io/busybox:1.35
+MAINTAINER yaoyuanmeng <1390331234@qq.com>
