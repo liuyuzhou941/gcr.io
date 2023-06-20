@@ -1,2 +1,2 @@
-FROM makeplane/plane-backend:latest
+FROM makeplane/plane-worker:latest
 MAINTAINER yaoyuanmeng <1390331234@qq.com>
