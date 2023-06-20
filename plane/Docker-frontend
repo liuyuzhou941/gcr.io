@@ -1,0 +1,2 @@
+FROM makeplane/plane-frontend:latest
+MAINTAINER yaoyuanmeng <1390331234@qq.com>
