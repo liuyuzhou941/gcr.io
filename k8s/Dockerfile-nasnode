@@ -1,0 +1,5 @@
+FROM registry.k8s.io/sig-storage/livenessprobe:v2.10.0
+MAINTAINER yaoyuanmeng <1390331234@qq.com>
+
+
+
